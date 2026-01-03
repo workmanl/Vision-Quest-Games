@@ -49,8 +49,6 @@ Combine elements to discover new creations! Start with Earth, Fire, Wind, and Wa
 
 Having trouble? We're here to help!
 
-**Email:** [your-email@domain.com]
-
 **Common Questions:**
 
 **Q: How do I save my progress?**
