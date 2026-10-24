@@ -7,7 +7,7 @@ Vision Quest Games is a collection of six kid-friendly games designed around vis
 <img src="docs/assets/shot-1.webp" alt="Vision Quest Games screenshot 1" width="260">
 <img src="docs/assets/shot-2.webp" alt="Vision Quest Games screenshot 2" width="260">
 
-- Website: https://workmanl.github.io/Vision-Quest-Games/
+- Website: https://emrldlabs.com/apps/vision-quest-games/
 - App Store: https://apps.apple.com/us/app/vision-quest-games/id6757344701
 - Support: https://github.com/workmanl/Vision-Quest-Games/issues
 - Email: hello@emrldlabs.com
